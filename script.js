@@ -1,7 +1,7 @@
 "use strict";
 
 
-let toggleNav = document.querySelector('nav__list')
+// let toggleNavv = document.querySelector('nav__list')
 
 function toggleNav() {
   let nav = document.querySelector('.nav__list');
