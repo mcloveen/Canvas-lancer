@@ -1,0 +1,225 @@
+@media (max-width: 992px) {
+  .container {
+    max-width: 932px;
+  }
+  .nav__list-link {
+    margin-right: 30px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #fff;
+  }
+  .header__btn {
+    padding: 7px 25px;
+    border-radius: 5px;
+  }
+  .header__logo {
+    width: 180px;
+    height: 35px;
+  }
+  .main__container {
+    padding: 130px 0 130px 0;
+  }
+  .main__welcome-1 {
+    margin-bottom: 12px;
+  }
+  .main__heading {
+    font-size: 50px;
+    line-height: 128.5%;
+  }
+  .main__line {
+    width: 400px;
+    margin-bottom: 12px;
+  }
+  .main__description {
+    max-width: 550px;
+    margin-bottom: 30px;
+    font-size: 14px;
+  }
+  .main__btn {
+    padding: 5px 24px;
+    font-size: 10px;
+    line-height: 16px;
+  }
+  .main__btn:first-child {
+    padding: 12px 41px;
+    background-color: #FF3839;
+    margin-right: 20px;
+    color: #fff;
+  }
+  .info__container {
+    padding: 80px 3px;
+  }
+  .info__line {
+    display: block;
+    border: 1px solid #D8D8D8;
+    width: 143px;
+  }
+  .info__image-1 {
+    max-height: 330px;
+    max-width: 330px;
+  }
+  .info__image-2 {
+    transform: translate(60%, -58%);
+  }
+  .welcome__container-contact {
+    margin-bottom: 10px;
+  }
+  .info__heading {
+    font-size: 38px;
+    line-height: 125.5%;
+    margin-bottom: 14px;
+  }
+  .info__description {
+    margin-bottom: 10px;
+  }
+  .services__container {
+    padding: 80px 0 80px 0;
+  }
+  .services__heading {
+    font-size: 38px;
+    margin-bottom: 15px;
+  }
+  .services__description {
+    font-size: 13px;
+    color: #fff;
+    max-width: 420px;
+    margin-bottom: 40px;
+  }
+  .services__btn {
+    padding: 8px 50px;
+    font-size: 12px;
+  }
+  .services__card-item:first-child {
+    margin-bottom: 10px;
+    margin-right: 10px !important;
+  }
+  .services__card-item:last-child {
+    margin-right: 10px !important;
+  }
+  .card__heading {
+    margin-bottom: 7px;
+  }
+  .card__description {
+    padding-bottom: 0px;
+  }
+  .card__icon {
+    width: 72px;
+    height: 72px;
+  }
+  .projects__container {
+    padding: 80px 0;
+  }
+  .projects__heading {
+    font-size: 38px;
+    margin-bottom: 15px;
+  }
+  .projects__pictures {
+    justify-content: space-between;
+  }
+  .projects__list-photo {
+    max-width: 280px;
+  }
+  .feedback__container {
+    padding: 80px 0;
+  }
+  .feedback__heading {
+    font-size: 38px;
+    margin-bottom: 80px;
+  }
+  .feedback__list-item {
+    max-width: 300px;
+  }
+  .questions__container {
+    padding: 80px 0px 80px 12px;
+  }
+  .questions__heading {
+    font-size: 38px;
+    margin-bottom: 50px;
+  }
+  .accordion__heading {
+    max-width: 920px;
+  }
+  .accordion__item-text {
+    font-size: 14px;
+  }
+  .contact__container {
+    padding: 80px 0;
+    background-size: 400px;
+    background-position: bottom right;
+  }
+  .contact__heading {
+    font-size: 38px;
+    margin-bottom: 15px;
+  }
+  .contact__description {
+    font-size: 14px;
+    max-width: 450px;
+  }
+  .contact__input {
+    max-width: 450px;
+  }
+  .contact__message-input {
+    max-width: 450px;
+  }
+}
+@media (max-width: 768px) {
+  .container {
+    max-width: 708px;
+  }
+  .nav__list-link {
+    margin-right: 15px;
+  }
+  .header__burger-container {
+    display: block;
+  }
+  .header__logo {
+    margin-left: 60px;
+  }
+  .header__burger {
+    display: block;
+  }
+  .header__second {
+    display: none;
+  }
+  .contact__line {
+    width: 100px;
+  }
+  .info__first {
+    max-height: 400px;
+    max-width: 400px;
+  }
+  .info__image-1 {
+    max-width: 300px;
+    max-height: 300px;
+  }
+  .info__image-2 {
+    max-width: 250px;
+    max-height: 250px;
+    transform: translate(60%, -70%);
+  }
+  .info__heading {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  .info__description {
+    font-size: 12px;
+    max-width: 350px;
+    margin-bottom: 5px;
+  }
+  .welcome__container-contact {
+    margin-bottom: 5px;
+  }
+  .services__heading {
+    font-size: 28px;
+  }
+  .projects__heading {
+    font-size: 28px;
+  }
+  .projects__list-photo {
+    max-width: 210px;
+  }
+  .accordion__heading {
+    max-width: 698px;
+  }
+}/*# sourceMappingURL=responsive.css.map */
