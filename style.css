@@ -858,4 +858,23 @@ a {
   font-weight: 300;
   font-size: 16px;
   line-height: 36px;
-}/*# sourceMappingURL=style.css.map */
+}
+
+.nav__list--active {
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .nav__list {
+    display: none;
+  }
+
+  .header__burger-container {
+    display: block;
+  }
+
+  .header__burger {
+    display: block;
+    cursor: pointer;
+  }
+}
