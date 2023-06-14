@@ -6,7 +6,6 @@ function toggleNav() {
     nav.classList.toggle('nav__list--active');
   }
 
-  
   let burger = document.querySelector('.header__burger');
   burger.addEventListener('click', toggleNav);
   
