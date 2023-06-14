@@ -1,5 +1,6 @@
 "use strict";
 
+
 let toggleNav = document.querySelector('nav__list')
 
 function toggleNav() {
